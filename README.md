@@ -31,7 +31,7 @@ Create the game canvas: <br/>
 Here is where we begin to start creating the game. Firstly, start by importing the tkinter module. Then we will be making a class called ‘Game’ and attaching important objects to this class, such as an initialization function and a canvas for the game. Doing this causes the background that was created in the beginning to be implemented using a mainloop function within the newly created class. In addition, we reference the background image that was created earlier using a ‘PhotoImage’ widget. Lastly, we can give the game a title.
 <br />
 <br />
-<img src="https://i.imgur.com/jy0eXwt.png" height="80%" width="80%" alt="Race for the Exit Game Steps"/>
+<img src="https://i.imgur.com/ScknukS.png" height="80%" width="80%" alt="Race for the Exit Game Steps"/>
 <br />
 <br />
 Create coordinates and collision detection: <br/>
