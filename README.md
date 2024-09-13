@@ -47,7 +47,7 @@ Here is where we begin to start creating the game. Firstly, start by importing t
 For this step, we create coordinates for the positions of the earlier created sprites.  The necessary components to use are two sets of coordinates, x and y. Next, we utilize a crucial part of any game: collision detection. This is so the game will be able to tell if any of the sprites have collided with one another. Collision detection also allows Mr. Stickman to be able to run around and jump onto platforms which we will delve into more detail in the next step.
 <br />
 <br />
-<img src="https://online-project-images.s3.us-east-2.amazonaws.com/racefortheexit/Stickman-3.png" height="80%" width="80%" alt="Race for the Exit Game Steps"/>
+<img src="https://online-project-images.s3.us-east-2.amazonaws.com/racefortheexit/Stickman-3NEW.png" height="50%" width="50%" alt="Race for the Exit Game Steps"/>
 </p>
 <br />
 <br />
