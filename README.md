@@ -7,7 +7,7 @@
 </div>
 
 <h2>Description</h2>
-This project is a game that utilizes sprites and animation to produce a fun 2D game using the tkinter module in Python. The goal of the game is to guide the controllable stick figure, Mr. Stickman, to the exit door. To achieve this goal the player will need to navigate Mr. Stickman by running and jumping across platforms until he reaches the exit. Check out the game here:&ensp;<a href="https://codehs.com/sandbox/nine01boy97/racefortheexit/run" target="_blank">Race For The Exit</a>
+This project is a game that utilizes sprites and animation to produce a fun 2D game using the tkinter module in Python. The goal of the game is to guide the controllable stick figure, Mr. Stickman, to the exit door. To achieve this goal the player will need to navigate Mr. Stickman by running and jumping across platforms until he reaches the exit. Check out the game here:&ensp;<a href="https://codehs.com/sandbox/nine01boy97/racefortheexit/run/" target="_blank">Race For The Exit</a>
 
 <br />
 <br />
